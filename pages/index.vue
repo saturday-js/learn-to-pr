@@ -13,12 +13,14 @@
       <nuxt-link to="/Withawit">Withawit</nuxt-link><br>
       <nuxt-link to="/nutdanai">Nutdanai</nuxt-link><br>
       <nuxt-link to="/Sirinun">sirinun</nuxt-link><br>
-     <nuxt-link to="kanyaruk">kanyaruk</nuxt-link><br>
+      <nuxt-link to="kanyaruk">kanyaruk</nuxt-link><br>
       <nuxt-link to="jack">Jack</nuxt-link><br>
       <nuxt-link to="nuttakit">Nuttakit</nuxt-link><br>
       <nuxt-link to="/calculate">Taveechai</nuxt-link><br>
-      <nuxt-link to="Kunton">Kunton</nuxt-link>
+      <nuxt-link to="Sillawat">Sillawat</nuxt-link><br>
+      <nuxt-link to="Kunton">Kunton</nuxt-link><br>
       <nuxt-link to="/kittitah">Kittitah</nuxt-link><br>
+
     </div>
   </section>
 </template>
