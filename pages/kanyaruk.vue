@@ -1,30 +1,15 @@
 <template>
   <section class="container">
-
-
-      <div id="login-box">
-
-    <div class="left">
-      <h1>Sign up</h1>
-
-      <input type="text" name="username" placeholder="Username" /><br><br>
-      <input type="text" name="email" placeholder="E-mail" /><br><br>
-      <input type="password" name="password" placeholder="Password" /><br><br>
-      <input type="password" name="password2" placeholder="Retype password" /><br><br>
-
-    <a href="www.youtube.com">  <input type="submit" name="signup_submit" value="Sign me up" /> </a>
+    <div id="login-box">
+      <div class="left">
+        <h1>Sign up</h1>
+        <input type="text" name="username" placeholder="Username" /><br><br>
+        <input type="text" name="email" placeholder="E-mail" /><br><br>
+        <input type="password" name="password" placeholder="Password" /><br><br>
+        <input type="password" name="password2" placeholder="Retype password" /><br><br>
+        <a href="www.youtube.com">  <input type="submit" name="signup_submit" value="Sign me up" /> </a>
+      </div>
     </div>
-
-
-  </div>
-
-
-
-
-
-
-
-
   </section>
 </template>
 
