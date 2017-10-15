@@ -9,6 +9,14 @@
       <nuxt-link to="Rittiphon">Rittiphon</nuxt-link>
       <nuxt-link to="/chonticha">chonticha</nuxt-link>
       <nuxt-link to="/Nat">Nat</nuxt-link>
+
+
+
+
+
+      
+      <nuxt-link to="/Sirinun">Sirinun</nuxt-link>
+
     </div>
   </section>
 </template>
